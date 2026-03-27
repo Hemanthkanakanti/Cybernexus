@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**:
+**URL**: https://cybernexus-seven.vercel.app/
 
 
 **Use your preferred IDE**
