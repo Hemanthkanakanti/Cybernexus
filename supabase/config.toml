@@ -1,0 +1,10 @@
+project_id = "bugpqcdkggtcsrjydofb"
+
+[functions.cyber-chat]
+verify_jwt = false
+
+[functions.upload-data]
+verify_jwt = false
+
+[functions.auto-generate]
+verify_jwt = false
